@@ -1,2 +1,2 @@
-# AGH Computer Science major
+### AGH Computer Science major
 <now under construction>
