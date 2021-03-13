@@ -1,2 +1,2 @@
 ### AGH Computer Science major
-<now under construction>
+Here I store code for my classes.
