@@ -1,2 +1,2 @@
-### AGH Computer Science
-Here I store code for my classes.
+### Imperative Programming classes at AGH UST.
+Here I store code written for my classes.
